@@ -1,7 +1,7 @@
 # Intents
-Default Fallback Intent
-__Default Welcome Intent
-__provides.benefits
+Default Fallback Intent_
+Default Welcome Intent_
+provides.benefits_
 __provides.feature
 __provides.morecomments
 __provides.obstacle
