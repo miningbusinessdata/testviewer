@@ -1,4 +1,4 @@
 # Intents
-Default Fallback Intent
-Default Welcome Intent
-provides.benefits
+Default Fallback Intent__
+Default Welcome Intent__
+provides.benefits__
